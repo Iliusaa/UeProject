@@ -1487,7 +1487,7 @@ Begin Object Class=/Script/Engine.Blueprint Name="BP_EnemyManager" ExportPath="/
    LastEditedDocuments(1)=(EditedObjectPath="/Game/Blueprint/BP_EnemyManager.BP_EnemyManager:BuildRandomEnemyTowers",SavedViewOffset=(X=553.032288,Y=-280.928253),SavedZoomAmount=0.875000)
    LastEditedDocuments(2)=(EditedObjectPath="/Game/Blueprint/BP_EnemyManager.BP_EnemyManager:AddCoins",SavedViewOffset=(X=-245.099792,Y=-310.404999),SavedZoomAmount=1.000000)
    LastEditedDocuments(3)=(EditedObjectPath="/Game/Blueprint/BP_EnemyManager.BP_EnemyManager:GetTowerCost",SavedViewOffset=(X=-478.623779,Y=-197.438766),SavedZoomAmount=0.750000)
-   LastEditedDocuments(4)=(EditedObjectPath="/Game/Blueprint/BP_EnemyManager.BP_EnemyManager:EventGraph",SavedViewOffset=(X=234.354446,Y=-190.304611),SavedZoomAmount=0.675000)
+   LastEditedDocuments(4)=(EditedObjectPath="/Game/Blueprint/BP_EnemyManager.BP_EnemyManager:EventGraph",SavedViewOffset=(X=289.169342,Y=-95.489914),SavedZoomAmount=0.675000)
    GeneratedClass="/Script/Engine.BlueprintGeneratedClass'BP_EnemyManager_C'"
    bLegacyNeedToPurgeSkelRefs=False
    BlueprintGuid=2EDE2DE44EF4BB52C474AE83B4A29FF2
