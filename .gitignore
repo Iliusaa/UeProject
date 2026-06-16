@@ -1,0 +1,9 @@
+Saved/
+Intermediate/
+Binaries/
+DerivedDataCache/
+.vs/
+*.suo
+*.user
+*.opensdf
+*.log
